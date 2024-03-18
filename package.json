@@ -1,0 +1,15 @@
+{
+  "name": "play-app-backend",
+  "version": "1.0.0",
+  "description": "This is a youtube clone backend project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "himanshu21",
+  "license": "ISC"
+}
